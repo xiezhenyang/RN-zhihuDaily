@@ -96,7 +96,6 @@ class App extends React.Component {
 
     // // 隐藏启动屏图片
     RNBootSplash.hide({ duration: 250 });
-    console.disableYellowBox = true;
   }
 
   // componentWillUnmount() {
